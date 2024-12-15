@@ -10,8 +10,6 @@
   <img src="https://github.com/user-attachments/assets/ae3ec277-de14-4c01-a220-32a6a25a3f1c" alt="LinkedIn" width="50" height="50">
 </a>
 
-- ⚡ Fun fact: still seeking good opportunities 
-
 <!---
 Sabarish-cs8/Sabarish-cs8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -25,6 +23,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/user-attachments/assets/bdf1cdc7-5f1d-48a3-b45a-a2cb78102f99" alt="Image 4" width="100" height="100">
   <img src="https://github.com/user-attachments/assets/75b0498f-7e49-4ced-ab22-ef3ebe73d280" alt="Image 5" width="100" height="100">
   <img src="https://github.com/user-attachments/assets/bc5eac3e-3f20-4bac-913d-0f1873ad0520" alt="Image 6" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/eaa1242a-e3f6-44c2-8e47-f73c3bb51e29" alt="nextjs"  width="100" height="100">
+
 </p>
 
 **IDE and Tools I Use**
